@@ -290,7 +290,7 @@ TOSCO/
 
 The TOSCO concept and threat model are prior design work. **All code in this repository was built during the RAISE Summit 2026 hackathon** for the Vultr track.
 
-**Remote:** [github.com/yaswankum2622-code/TOSCO](https://github.com/yaswankum2622-code/TOSCO)
+**Remote:** [github.com/yaswanthakkireddy/TOSCO](https://github.com/yaswanthakkireddy/TOSCO)
 
 ---
 
